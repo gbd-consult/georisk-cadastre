@@ -1,5 +1,4 @@
-# georisk-cadastre
-Georisk Cadastre
+# Georisk Cadastre
 
 In this repository you will find a template for the implementation of a georisk cadastre. It is based on experiences ....
 
